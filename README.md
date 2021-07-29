@@ -1,0 +1,2 @@
+# Encapsulation
+Bean Class
